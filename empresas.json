@@ -1,0 +1,53 @@
+{
+    "Empresas": [
+        {
+            "nome": "TechNova",
+            "area": "Desenvolvimento",
+            "local": "São Paulo",
+            "email": "technova@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "BioVida",
+            "area": "Saúde",
+            "local": "Rio de Janeiro",
+            "email": "biovida@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "EcoPlus",
+            "area": "Sustentabilidade",
+            "local": "Curitiba",
+            "email": "ecoplus@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "InovaSoft",
+            "area": "Tecnologia",
+            "local": "Porto Alegre",
+            "email": "inovasoft@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "AgroVerde",
+            "area": "Agroindústria",
+            "local": "Goiânia",
+            "email": "agroverde@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "MedFuture",
+            "area": "Biotecnologia",
+            "local": "Belo Horizonte",
+            "email": "medfuture@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "SmartBuild",
+            "area": "Engenharia",
+            "local": "Florianópolis",
+            "email": "smartbuild@provenn.com",
+            "senha": "1234"
+        }
+    ]
+}

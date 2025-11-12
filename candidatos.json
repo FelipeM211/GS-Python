@@ -1,0 +1,60 @@
+{
+    "Candidatos": [
+        {
+            "nome": "Rafael Monteiro",
+            "idade": 24,
+            "profissao": "Desenvolvedor Front-End",
+            "email": "Rafael@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "Camila Duarte",
+            "idade": 23,
+            "profissao": "Engenheiro de Software",
+            "email": "Camila@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "Igor Vasques",
+            "idade": 27,
+            "profissao": "Designer UX/UI",
+            "email": "Igor@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "Bruno Castro",
+            "idade": 26,
+            "profissao": "Cientista de Dados",
+            "email": "bruno@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "Carla Nunes",
+            "idade": 29,
+            "profissao": "Gerente de Projetos",
+            "email": "carla@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "João Pedro",
+            "idade": 22,
+            "profissao": "Analista de Sistemas",
+            "email": "joao@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "Maria Luiza",
+            "idade": 25,
+            "profissao": "Programadora Mobile",
+            "email": "maria@provenn.com",
+            "senha": "1234"
+        },
+        {
+            "nome": "Felipe",
+            "idade": 18,
+            "profissao": "a",
+            "email": "a",
+            "senha": "1234"
+        }
+    ]
+}
