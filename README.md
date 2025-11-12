@@ -89,7 +89,7 @@ O projeto cumpre todos os requisitos definidos no documento **GS - Python**:
 
 ## 8. Link do Vídeo
 
-Link: ()
+Link: (https://youtu.be/VMNMGhBhO_k)
 
 ## 9. Conclusão
 
